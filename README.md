@@ -1,4 +1,6 @@
+Here is the exact code wrapped in a Markdown block. By copying it from this block (using the copy icon in the top right corner of the box), you will guarantee that GitHub reads the spacing, bullets, and terminal commands perfectly without breaking the formatting!
 
+```markdown
 # 🌾 Agro-Bot: Multimodal AI Farming Assistant
 
 An advanced, hyper-localized, multi-sensory AI agricultural expert designed specifically for Indian farmers. Moving beyond a standard RAG (Retrieval-Augmented Generation) chatbot, Agro-Bot combines **Multimodal Image Analysis**, **Live Weather Intelligence**, and a **Localized Voice Interface** to act as a proactive "Crop Doctor." 
@@ -46,14 +48,18 @@ Farmers face three major bottlenecks when seeking agricultural advice:
 * API Keys for Pinecone, Google Gemini, OpenWeatherMap, and Supabase.
 
 ### 1. Clone the repository
+bash
 git clone [https://github.com/yourusername/agro-bot.git](https://github.com/yourusername/agro-bot.git)
-cd agro-bot
+
+cd Farm-Tech
 
 
 ### 2. Backend Setup
 
 cd backend
+
 npm install
+
 cp .env.sample .env
 # Fill in your API keys in the backend .env file
 npm run dev
@@ -64,7 +70,9 @@ npm run dev
 Open a new terminal window:
 
 cd frontend
+
 npm install
+
 cp .env.sample .env
 # Fill in your Supabase keys in the frontend .env file
 npm run dev
