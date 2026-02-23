@@ -1,6 +1,4 @@
-Here is the exact code wrapped in a Markdown block. By copying it from this block (using the copy icon in the top right corner of the box), you will guarantee that GitHub reads the spacing, bullets, and terminal commands perfectly without breaking the formatting!
 
-```markdown
 # 🌾 Agro-Bot: Multimodal AI Farming Assistant
 
 An advanced, hyper-localized, multi-sensory AI agricultural expert designed specifically for Indian farmers. Moving beyond a standard RAG (Retrieval-Augmented Generation) chatbot, Agro-Bot combines **Multimodal Image Analysis**, **Live Weather Intelligence**, and a **Localized Voice Interface** to act as a proactive "Crop Doctor." 
